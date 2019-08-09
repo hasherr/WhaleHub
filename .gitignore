@@ -1,5 +1,4 @@
 # React Ignores
-
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
@@ -67,4 +66,4 @@ secrets.yml
 .sts4-cache
 
 # WhaleHub Ignores
-creds/
+creds/*
